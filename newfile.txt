@@ -1,1 +1,1 @@
-Arquivo de origem
+O nome deste arquivo antes do códgio ser executado era 'main.txt'. Depois da execução, o nome foi alterado para 'newfile.txt' como previsto.
